@@ -6,7 +6,7 @@
   * Getting to know GitHub
   * Fool around
 
-_2012-04-03_
+_2012-04-04_
 
 - - -
 
@@ -16,7 +16,8 @@ _2012-04-03_
 
 # This is an H1 #
 ## This is an H2 ##
-### This is an H3 ######
+### This is an H3 ###
+#### This is an H4 ####
 
 **Unordered List**
 
@@ -45,4 +46,9 @@ This is an [example link](http://example.com/).
 
 **Code**
 
-	<blockquote>Indent code with tabs.<blockquote>
+	<script type="text/javascript">
+		function PrintDate() {
+			today = new Date();
+			document.write('Date: ', today.getMonth()+1, '/', today.getDate(), '/', today.getYear());
+		}
+	</script>
