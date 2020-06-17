@@ -4,6 +4,12 @@
 
 ## Badges
 
+![GitHub last commit](https://img.shields.io/github/last-commit/pixelbrackets/hello-github-world?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/pixelbrackets/hello-github-world?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/pixelbrackets/hello-github-world)
+
+![GitHub stars](https://img.shields.io/github/stars/pixelbrackets/hello-github-world?style=social)
+
 [![Join the chat at https://gitter.im/pixelbrackets/hello-github-world](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pixelbrackets/hello-github-world?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Markdown
