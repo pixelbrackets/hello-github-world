@@ -1,18 +1,12 @@
-**Hello World Github Test Project**
+# Hello Github World
 
-# About #
+**🚧 This is a demo repository 🚧**
+
+## Badges
 
 [![Join the chat at https://gitter.im/pixelbrackets/hello-github-world](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pixelbrackets/hello-github-world?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-  * Testing GIT
-  * Getting to know GitHub
-  * Fool around
-
-_2012-04-04_
-
-- - -
-
-**Markup Test**
+## Markdown
 
 **Headlines**
 
